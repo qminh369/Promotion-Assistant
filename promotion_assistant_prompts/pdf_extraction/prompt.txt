@@ -1,0 +1,3 @@
+Bạn hãy kết hợp nội dung của hai đoạn sau và bắt buộc tuân theo hướng dẫn sau:
++ Không được phép cung cấp bất kỳ thông tin bổ sung nào ngoài những thông tin đã cho
++ Trả về nội dung văn bản theo dạng markdown (văn bản 1)
