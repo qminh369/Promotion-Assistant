@@ -10,13 +10,6 @@
     -   python3 app/main.py
     -   PYTHONPATH=$(pwd) python app/main.py
 # **Test api trên Postman**
--   PDF upload:
-    -   URL: http://localhost:7001/v1/genai/hr-assistants/cv-extraction/pdf-upload
-    -   Body from-data:
-        -   file (File): Chọn file pdf trong máy cá nhân
-    -   ![Ảnh minh hoạ](./imgs/pdf_upload_image.png)
 -   PDF URL:
-    -   URL: http://localhost:7001/v1/genai/hr-assistants/cv-extraction/pdf-url
-    -   Body raw:
-        -   file (File): Đường link url của file pdf
-    -   ![Ảnh minh hoạ](./imgs/pdf_url_image.png)
+    -   URL: http://localhost:8000/v2/genai/promotion-assistants/kip-promotion-extraction/pdf-upload
+
